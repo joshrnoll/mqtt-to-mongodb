@@ -1,5 +1,7 @@
 # MQTT to MongoDB
-An API written in express to load data from an MQTT topic into a MongoDB collection.
+A proof-of-concept API written in express to load data from an MQTT topic into a MongoDB collection.
+
+![](/mqtt-to-mongodb.svg)
 
 ## Prerequisites
 - Node
